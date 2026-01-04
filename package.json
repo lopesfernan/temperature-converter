@@ -1,0 +1,24 @@
+{
+  "name": "temperature-converter",
+  "version": "1.0.0",
+  "description": "Converts temperatures between Fahrenheit and Celsius.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopesfernan/temperature-converter.git"
+  },
+  "keywords": [
+    "temperature",
+    "converter",
+    "utility"
+  ],
+  "author": "Fernando A. Lopes Tome",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lopesfernan/temperature-converter/issues"
+  },
+  "homepage": "https://github.com/lopesfernan/temperature-converter#readme"
+}
